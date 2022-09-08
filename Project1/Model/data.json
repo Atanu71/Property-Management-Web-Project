@@ -1,0 +1,29 @@
+[
+    {
+        "sl": 1,
+        "name": "Alif Khan",
+        "email": "alif401@gmail.com",
+        "username": "alif",
+        "password": "01234567",
+        "gender": "Male",
+        "dob": "2001-12-22"
+    },
+    {
+        "sl": 2,
+        "name": "Error Alif",
+        "email": "error229@gmail.com",
+        "username": "error",
+        "password": "87654321",
+        "gender": "Male",
+        "dob": "2000-03-10"
+    },
+    {
+        "sl": 3,
+        "name": "Ashraful Hossain",
+        "email": "ashraful@gmail.com",
+        "username": "hossain",
+        "password": "12345678",
+        "gender": "Male",
+        "dob": "1998-09-10"
+    }
+]

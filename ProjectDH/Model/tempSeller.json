@@ -1,0 +1,42 @@
+[
+    {
+        "sl": 5,
+        "name": "Kamrul Hasan",
+        "gender": "Male",
+        "dob": "2000-06-07",
+        "phone": "01956394355",
+        "email": "kamrul@gmail.com",
+        "username": "kamrul",
+        "password": "kamrul123"
+    },
+    {
+        "sl": 6,
+        "name": "Koche Hasan",
+        "gender": "Male",
+        "dob": "2000-06-07",
+        "phone": "01956394355",
+        "email": "koche@gmail.com",
+        "username": "koche",
+        "password": "koche"
+    },
+    {
+        "sl": 11,
+        "name": "Reyad Hasan",
+        "gender": "Male",
+        "dob": "2000-06-07",
+        "phone": "01956394355",
+        "email": "reyad@gmail.com",
+        "username": "reyad",
+        "password": "reyad123"
+    },
+    {
+        "sl": 12,
+        "name": "Bappi Mojumder",
+        "gender": "Male",
+        "dob": "2000-06-07",
+        "phone": "01956394355",
+        "email": "bappi@gmail.com",
+        "username": "bappi",
+        "password": "bappi123"
+    }
+]
